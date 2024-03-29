@@ -14,8 +14,7 @@ public class ReverseString {
 		reversedString = reversedString + c[i];
 	}
 		System.out.println(reversedString);
-
-	    
+		System.out.println("This is printed");
 	}
 
 }
