@@ -12,7 +12,7 @@ public class FactorialNumber {
     public static int factorial(int n) {
     	int num =n;
 		
-		if(num== 0) {
+		if(num==0) {
 			return 1;
 		}else {
 			return num*factorial(num-1);//5*4*3*2*1*1 =120
